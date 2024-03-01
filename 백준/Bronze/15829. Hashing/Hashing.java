@@ -7,7 +7,7 @@ public class Main{
         
         int N = Integer.parseInt(br.readLine());
         String s = br.readLine();
-        int prime = 1234567890;
+        int prime = 1234567891;
         long r = 1;
         long sum = 0;
         
